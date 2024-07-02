@@ -32,5 +32,5 @@ To modify the `if` block, click on the gear icon in the top left corner of the b
 ### result :
 
 <p align="center">
-  <img src="../../../res/images/blocks/logic/if/if_example_result.png" width=40% />
+  <img src="../../../res/images/blocks/logic/if/if_example_result.png" width=200vw />
 </p>
