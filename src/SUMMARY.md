@@ -3,9 +3,8 @@
 - [Introduction](./Introduction.md)
 - [Creating games](./create_games.md)
   - [Blocks](./create_games/blocks.md)
-    - <details>
-        <summary> [logic](./create_games/blocks.md) </summary>
-        <br>
-        This is how you dropdown.
-    </details>
+    - [Logic](./create_games/blocks/logic.md)
+      - [If block](./create_games/blocks/logic/if.md)
+      - [Equality block](./create_games/blocks/logic/equality.md)
+
 
