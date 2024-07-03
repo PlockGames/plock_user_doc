@@ -11,5 +11,7 @@
     - [Not](./create_games/blocks/logic/not.md)
     - [Boolean](./create_games/blocks/logic/boolean.md)
     - [Wait](./create_games/blocks/logic/wait.md)
+    - [Screen Width](./create_games/blocks/logic/screen_width.md)
+    - [Screen Height](./create_games/blocks/logic/screen_height.md)
 
 
