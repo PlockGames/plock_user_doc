@@ -4,7 +4,7 @@
 
 [Creating games](./create_games.md)
 - [Blocks](./create_games/blocks.md)
-  - Logic
+  - [Logic](./create_games/blocks/logic.md)
     - [If](./create_games/blocks/logic/if.md)
     - [Comparison](./create_games/blocks/logic/comparison.md)
     - [Logical Operation ](./create_games/blocks/logic/logical_operation.md)
@@ -13,5 +13,13 @@
     - [Wait](./create_games/blocks/logic/wait.md)
     - [Screen Width](./create_games/blocks/logic/screen_width.md)
     - [Screen Height](./create_games/blocks/logic/screen_height.md)
+  - [Loops](./create_games/blocks/loops.md)
+  - [Math](./create_games/blocks/math.md)
+  - [Text](./create_games/blocks/text.md)
+  - [Lists](./create_games/blocks/lists.md)
+  - [Colour](./create_games/blocks/colour.md)
+  - [Components](./create_games/blocks/components.md)
+  - [Objects](./create_games/blocks/objects.md)
+  - [Variables](./create_games/blocks/variables.md)
 
 
