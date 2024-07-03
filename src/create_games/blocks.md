@@ -6,12 +6,12 @@ With blocks you can, for example, move an object to create a moving platform, de
 
 List of blocks categories :
 
-* [Logic](./blocks/logic.md)
-* [Loops](./blocks/loops.md)
-* [Math](./blocks/math.md)
-* [Text](./blocks/text.md)
-* [Lists](./blocks/lists.md)
-* [Colour](./blocks/colour.md)
-* [Components](./blocks/components.md)
-* [Objects](./blocks/objects.md)
-* [Variables](./blocks/variables.md)
+* [Logic](./blocks/logic/logic.md)
+* [Loops](./blocks/logic/loops.md)
+* [Math](./blocks/logic/math.md)
+* [Text](./blocks/logic/text.md)
+* [Lists](./blocks/logic/lists.md)
+* [Colour](./blocks/logic/colour.md)
+* [Components](./blocks/logic/components.md)
+* [Objects](./blocks/logic/objects.md)
+* [Variables](./blocks/logic/variables.md)
