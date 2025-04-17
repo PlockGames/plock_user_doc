@@ -70,12 +70,17 @@ const config: Config = {
           label: 'Get started',
         },
         {
-          to: '/doc/components',
+          to: '/docs/tutorials/',
+          label: 'Tutorials',
+          position: 'left',
+        },
+        {
+          to: '/docs/components/',
           label: 'Components',
           position: 'left',
         },
         {
-          to: '/doc/events',
+          to: '/docs/events/',
           label: 'Events',
           position: 'left',
         },
