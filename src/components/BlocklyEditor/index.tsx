@@ -51,12 +51,6 @@ class BlocklyEditor extends React.Component<any, any> {
                         ref={this.blocklyDiv} id="blocklyDiv"
                         style={{height: 350, width: 500}}
                     ></div>
-                    <xml id="toolbox" style={{display: 'none'}} ref={this.toolbox}>
-                        <category name="Logic" colour="210">
-                            <block type="controls_if"></block>
-
-                        </category>
-                    </xml>
                 </div>
         </React.Fragment>;
     }
